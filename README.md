@@ -32,4 +32,4 @@ Also we can consider adding more features, exploring other models, handle better
 I have completed this project as a part of the Udacity Data Science Nanodegree Program - Starbucks Capstone Challenge.
 
 ## Medium Blog
-(https://medium.com/@subashiklajbi/starbucks-capstone-challenge-f762f4b8d49b)
+https://medium.com/@subashiklajbi/starbucks-capstone-challenge-f762f4b8d49b
